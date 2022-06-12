@@ -1,0 +1,22 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "Modul with add, subtract, multiply and division.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jhonatan10rpo@gmail.com"
+  },
+  "keywords": [
+    "math",
+    "add",
+    "subtract",
+    "multiply",
+    "division"
+  ],
+  "author": "Jhonatan Restrepo",
+  "license": "ISC"
+}
